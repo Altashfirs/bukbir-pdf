@@ -8,7 +8,7 @@ Langkah Penggunaan
 5. Hapus file pada folder pdf
 6. lalu jalankan program
 
-File NoName akan membut foto tanpa nama di pojok kiri
+File NoName akan merubah foto tetapi tanpa nama di pojok kiri
 
 File tanpa tulisan NoName akan menghasilkan foto yang sudah di edit dengan nama foto di pojok kiri atas foto
 
