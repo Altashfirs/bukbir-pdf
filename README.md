@@ -1,6 +1,6 @@
-UKURAN FOTO BELUM TERVALIDASI APAKAH SUDAH BENAR ATAU BELUM SAAT DI PRINT
+# UKURAN FOTO BELUM TERVALIDASI APAKAH SUDAH BENAR ATAU BELUM SAAT DI PRINT
 
-Langkah Penggunaan
+ # Langkah Penggunaan
 1. install libary yang dibutuhkan
    (pip install pillow reportlab)
 3. Hapus Foto yang ada di folder image
@@ -8,8 +8,8 @@ Langkah Penggunaan
 5. Hapus file pada folder pdf
 6. lalu jalankan program
 
-File NoName akan merubah foto tetapi tanpa nama di pojok kiri
+# File NoName akan merubah foto tetapi tanpa nama di pojok kiri
 
-File tanpa tulisan NoName akan menghasilkan foto yang sudah di edit dengan nama foto di pojok kiri atas foto
+# File tanpa tulisan NoName akan menghasilkan foto yang sudah di edit dengan nama foto di pojok kiri atas foto
 
 
